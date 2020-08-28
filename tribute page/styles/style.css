@@ -1,0 +1,171 @@
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    background: white;
+}
+
+#header {
+    width: 950px;
+    height: 550px;
+    background-color: white;
+    background-image: url(../images/jobs-lead.jpg);
+    background-size: cover;
+    margin-left: 10px;
+}
+
+#quote-1 {
+    height: 75px;
+}
+
+#text {
+    text-align: center;
+    font-family: "Bebas Neue", "Times New Roman";
+    font-size: 23px;
+    border: 0 black solid;
+    position: relative;
+    letter-spacing: 1px;
+}
+
+#content {
+    width: 1100px;
+    height: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+.subsection-header {
+    line-height: 120px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 50px;
+    color: #e0e0e0;
+    height: 120px;
+    width: 768px;
+    font-family: "Abril Fatface", "Times New Roman";
+}
+
+#bio-header {
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+#main-content {
+    width: 800px;
+    height: 700px;
+    margin-top: -15px;
+    background-color: white;
+    position: relative;
+    top: 25px;
+    left: 10px;
+    font-family: "dosis", sans-serif;
+}
+
+.event-date {
+    width: 100px;
+    height: 7px;
+    text-align: center;
+    line-height: 26px;
+    float: left;
+    font-size: 14px;
+    border-top: -1px solid #ccc;
+    margin: -10px 0 0 0;
+    padding: 4px 5px 6px 0;
+    clear: left;
+    font-weight: bold;
+}
+
+.event-date-first-child {
+    border-top: 1px solid #ccc;
+    margin-top: 0;
+}
+
+.event-desc {
+    width: 625px;
+    background: #f9f9f9;
+    float: left;
+    margin: 0;
+    padding: 8px 12px 8px 8px;
+    border-top: 1px solid #ccc;
+    clear: right;
+    font-size: 16px;
+}
+
+.event-desc-nth-child {
+    border-bottom: 1px solid #ccc;
+}
+
+#side-content {
+    height: 700px;
+    width: 290px;
+    background-color: white;
+    float: right;
+    clear: both;
+    position: relative;
+    bottom: 800px;
+}
+
+#second-image {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 7px;
+    float: right;
+    right: 40px;
+    margin-bottom: 10px;
+}
+
+.info {
+    font-size: 90%;
+    font-family: "Dosis", sans-serif;
+    position: relative;
+    margin-bottom: 2em;
+    text-align: center;
+    background-color: white;
+}
+
+.th,
+.info td {
+    vertical-align: top;
+    border: 0;
+    border-bottom: 1px solid #dddddd;
+    padding: 0.2em;
+}
+
+#overview {
+    font-family: "Abril Fatface", "Times New Roman";
+    font-size: 30px;
+    color: #e0e0e0;
+    letter-spacing: 2px;
+}
+
+.second-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 1300px;
+    background: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background-image: url(../images/applestore1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 0 -350px;
+    background-size: cover;
+}
